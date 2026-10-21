@@ -1,12 +1,12 @@
-# 3D Volleyball Simulation & Graphics Engine
+# 3D Penalty Shootout Simulation & Graphics Engine
 
-A real-time 3D volleyball simulation built with Python and PyOpenGL, developed as part of the Computer Graphics curriculum at CPE Lyon. The project demonstrates a programmable graphics pipeline, custom shader implementations, and kinematic collision physics.
+A real-time 3D Penalty Shootout simulation built with Python and PyOpenGL, developed as part of the Computer Graphics curriculum at CPE Lyon. The project demonstrates a programmable graphics pipeline, custom shader implementations, and kinematic collision physics.
 
 ![Gameplay Screenshot](image.png)
 
 ## Overview
 
-The engine renders an interactive 3D volleyball scene maintaining a steady 60 FPS. It features realistic ball dynamics (gravity, projectile trajectories), physical rebounds on ground boundaries and net structures, as well as a decoupled user-controlled camera.
+The engine renders an interactive 3D Penalty Shootout scene maintaining a steady 60 FPS. It features realistic ball dynamics (gravity, projectile trajectories), physical rebounds on ground boundaries and net structures, as well as a decoupled user-controlled camera.
 
 ## Key Technical Features
 
@@ -43,7 +43,7 @@ The engine renders an interactive 3D volleyball scene maintaining a steady 60 FP
 
 1. Clone the repository:
 
-    git clone [https://github.com/Aquila2san/projet-3eti-tsi.git](https://github.com/Aquila2san/projet-3eti-tsi.git)
+    git clone [https://github.com/victor-saunier/projet-3eti-tsi.git](https://github.com/victor-saunier/projet-3eti-tsi.git)
     cd projet-3eti-tsi
 
 2. Install dependencies:
